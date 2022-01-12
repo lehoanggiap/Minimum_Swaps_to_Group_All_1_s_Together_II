@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Minimum Swaps to Group All 1's Together II/1.0.0": {
+        "runtime": {
+          "Minimum Swaps to Group All 1's Together II.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Minimum Swaps to Group All 1's Together II/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

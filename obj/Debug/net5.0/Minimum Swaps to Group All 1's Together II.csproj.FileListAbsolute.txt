@@ -1,0 +1,16 @@
+E:\Desktop\Minimum Swaps to Group All 1's Together II\obj\Debug\net5.0\Minimum Swaps to Group All 1's Together II.csproj.AssemblyReference.cache
+E:\Desktop\Minimum Swaps to Group All 1's Together II\obj\Debug\net5.0\Minimum Swaps to Group All 1's Together II.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Minimum Swaps to Group All 1's Together II\obj\Debug\net5.0\Minimum Swaps to Group All 1's Together II.AssemblyInfoInputs.cache
+E:\Desktop\Minimum Swaps to Group All 1's Together II\obj\Debug\net5.0\Minimum Swaps to Group All 1's Together II.AssemblyInfo.cs
+E:\Desktop\Minimum Swaps to Group All 1's Together II\obj\Debug\net5.0\Minimum Swaps to Group All 1's Together II.csproj.CoreCompileInputs.cache
+E:\Desktop\Minimum Swaps to Group All 1's Together II\bin\Debug\net5.0\Minimum Swaps to Group All 1's Together II.exe
+E:\Desktop\Minimum Swaps to Group All 1's Together II\bin\Debug\net5.0\Minimum Swaps to Group All 1's Together II.deps.json
+E:\Desktop\Minimum Swaps to Group All 1's Together II\bin\Debug\net5.0\Minimum Swaps to Group All 1's Together II.runtimeconfig.json
+E:\Desktop\Minimum Swaps to Group All 1's Together II\bin\Debug\net5.0\Minimum Swaps to Group All 1's Together II.runtimeconfig.dev.json
+E:\Desktop\Minimum Swaps to Group All 1's Together II\bin\Debug\net5.0\Minimum Swaps to Group All 1's Together II.dll
+E:\Desktop\Minimum Swaps to Group All 1's Together II\bin\Debug\net5.0\ref\Minimum Swaps to Group All 1's Together II.dll
+E:\Desktop\Minimum Swaps to Group All 1's Together II\bin\Debug\net5.0\Minimum Swaps to Group All 1's Together II.pdb
+E:\Desktop\Minimum Swaps to Group All 1's Together II\obj\Debug\net5.0\Minimum Swaps to Group All 1's Together II.dll
+E:\Desktop\Minimum Swaps to Group All 1's Together II\obj\Debug\net5.0\ref\Minimum Swaps to Group All 1's Together II.dll
+E:\Desktop\Minimum Swaps to Group All 1's Together II\obj\Debug\net5.0\Minimum Swaps to Group All 1's Together II.pdb
+E:\Desktop\Minimum Swaps to Group All 1's Together II\obj\Debug\net5.0\Minimum Swaps to Group All 1's Together II.genruntimeconfig.cache
