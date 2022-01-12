@@ -45,6 +45,9 @@ namespace Minimum_Swaps_to_Group_All_1_s_Together_II
                 //if(nums[i] == 1) count++;
                 //onesInWindow = Math.Max(count, onesInWindow);
             //} this is the shorter way of writting code I read on leetcode, but the complexity is still O(n)
+            
+            
+            //instead of creating another array nums2, we can let i run from 0 to n*2 and the index is i%n
             return ones - onesInWindow;
     }
         
